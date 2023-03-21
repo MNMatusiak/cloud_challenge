@@ -1,0 +1,8 @@
+|id |lastname   |firstname|email                 |city    |age|
+|---|-----------|---------|----------------------|--------|---|
+|1  |Kowalski   |Jan      |kowalski@gmail.com    |Warszawa|45 |
+|2  |Kowalski   |Ada      |ada@gmail.com         |Warszawa|23 |
+|3  |Nowak      |Adam     |kowalski@gmail.com    |Warszawa|18 |
+|4  |Kwiatkowski|Piotr    |kowalski@gmail.com    |Warszawa|12 |
+|5  |Cierniak   |Adrian   |kowalski@gmail.com    |Warszawa|33 |
+|0  |Marcin     |Matusiak |m.n.matusiak@gmail.com|Berlinek|33 |
